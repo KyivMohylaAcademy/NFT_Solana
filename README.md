@@ -1,3 +1,3 @@
-# NFT_Solana
-Створити смартконтракт NFT мовою Rust з логотипом НаУКМА завантаженим в IPFS і задеплоїти його в devnet Solana
-Зробити пул реквест коду та вказати Ваше прізвище та хеш транзакції в readme.md
+Akhmadov
+Signature: 36rN4zpRra5BWfBmJeyKiBAaGNdRR1QXLcfaoLE7Zs3qVvJFaoPg2g9P4f7JsbgrZuonWxY6tqEGmJwESmp4HZNs
+Recent Blockhash: CjANUQGkv93QjeAkLGp41Jxby9voHwzVkUNRJsaKLq79
